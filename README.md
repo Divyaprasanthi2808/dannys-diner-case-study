@@ -23,5 +23,6 @@ Three datasets were used for this analysis:
 - **members:** Contains `customer_id` and their `join_date` in the loyalty program.
 
 ### Entity Relationship Diagram:
+![Danny's Diner]()
 
 
